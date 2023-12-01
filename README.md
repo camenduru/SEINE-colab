@@ -21,3 +21,7 @@ https://vchitect.github.io/SEINE-project/
 
 ## Output
 
+https://github.com/camenduru/SEINE-colab/assets/54370274/665bc377-2745-42d6-b2b3-1b0518405f88
+
+## Sponsor
+https://modelslab.com
